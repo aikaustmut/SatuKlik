@@ -166,3 +166,11 @@ body {
     width: 250px;
     margin-bottom: 20px;
 }
+.register-btn {
+    background-color: #2ecc71;
+}
+
+.register-btn:hover {
+    background-color: #27ae60;
+}
+
